@@ -1,0 +1,9 @@
+C:\Users\Mehmet\source\repos\Katmanli_Mimari\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\Mehmet\source\repos\Katmanli_Mimari\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Mehmet\source\repos\Katmanli_Mimari\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Mehmet\source\repos\Katmanli_Mimari\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\Mehmet\source\repos\Katmanli_Mimari\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\Mehmet\source\repos\Katmanli_Mimari\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\Mehmet\source\repos\Katmanli_Mimari\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\source\repos\Katmanli_Mimari\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\Mehmet\source\repos\Katmanli_Mimari\Core\obj\Debug\netstandard2.0\Core.pdb
